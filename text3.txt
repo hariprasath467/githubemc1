@@ -1,4 +1,0 @@
-This is the file that has to be added from the it looks like you haven't confiureed a build tool yot.  You can use  Bitbucket Pipelines to build. test and deplay
-your code.
-
-Your existing plan  already includes build minutes.s
